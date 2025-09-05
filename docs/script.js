@@ -613,7 +613,7 @@ scene.add(planet);
 const ringTexts = [
   'Xinh cá iiiii',
   "Là Trà Myyy",
-  "Cuti quá chừng hehee",
+  "Cuti quá chừng hehehe",
   "2004",
   ...(window.dataCCD && window.dataCCD.data.ringTexts ? window.dataCCD.data.ringTexts : [])
 ];
