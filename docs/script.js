@@ -611,10 +611,10 @@ scene.add(planet);
 
 // ---- TẠO CÁC VÒNG CHỮ QUAY QUANH HÀNH TINH ----
 const ringTexts = [
-  'Tớ xin lũi mò',
-  "Lê Hà Như Ý",
-  "Tớ xin lũi mòoo",
-  "24/11/2006",
+  'Xinh cá iiiii',
+  "Là Trà Myyy",
+  "Cuti quá chừng hehee",
+  "2004",
   ...(window.dataCCD && window.dataCCD.data.ringTexts ? window.dataCCD.data.ringTexts : [])
 ];
 
