@@ -819,7 +819,7 @@ let galaxyAudio = null;
 
 function preloadGalaxyAudio() {
   const audioSources = [
-   "/docs/[Vietsub] Tháp Rơi Tự Do - LBI Lợi Bỉ - 跳楼机 - LBI利比.mp3"
+   "./[Vietsub] Tháp Rơi Tự Do - LBI Lợi Bỉ - 跳楼机 - LBI利比.mp3"
   ];
 
   const randomIndex = Math.floor(Math.random() * audioSources.length);
